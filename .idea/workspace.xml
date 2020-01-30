@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a1a070a-b547-4167-9481-767005c4ccfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UkmJaqrocavFgOHm3Mjwoj9zXf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.KNN_kdTree">
+    <configuration name="KNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/KNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KNN_kdTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/KNN_kdTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.KNN_kdTree" />
+        <item itemvalue="Python.KNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a1a070a-b547-4167-9481-767005c4ccfb" name="Default Changelist" comment="" />
+      <created>1575908896997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575908896997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580350708283">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state x="143" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/29.23.1411.877@29.23.1411.877" timestamp="1580350708283" />
+    <state width="1176" height="304" key="GridCell.Tab.0.bottom" timestamp="1580371268742">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1176" height="304" key="GridCell.Tab.0.bottom/29.23.1411.877@29.23.1411.877" timestamp="1580371268742" />
+    <state width="1176" height="304" key="GridCell.Tab.0.center" timestamp="1580371268742">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1176" height="304" key="GridCell.Tab.0.center/29.23.1411.877@29.23.1411.877" timestamp="1580371268742" />
+    <state width="1176" height="304" key="GridCell.Tab.0.left" timestamp="1580371268741">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1176" height="304" key="GridCell.Tab.0.left/29.23.1411.877@29.23.1411.877" timestamp="1580371268741" />
+    <state width="1176" height="304" key="GridCell.Tab.0.right" timestamp="1580371268742">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state width="1176" height="304" key="GridCell.Tab.0.right/29.23.1411.877@29.23.1411.877" timestamp="1580371268742" />
+    <state x="220" y="100" key="SettingsEditor" timestamp="1580350747890">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state x="220" y="100" key="SettingsEditor/29.23.1411.877@29.23.1411.877" timestamp="1580350747890" />
+    <state x="413" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1575978332304">
+      <screen x="34" y="23" width="1406" height="877" />
+    </state>
+    <state x="413" y="294" key="com.intellij.ide.util.TipDialog/34.23.1406.877@34.23.1406.877" timestamp="1575978332304" />
+    <state x="395" y="212" width="670" height="676" key="search.everywhere.popup" timestamp="1580362806415">
+      <screen x="29" y="23" width="1411" height="877" />
+    </state>
+    <state x="395" y="212" width="670" height="676" key="search.everywhere.popup/29.23.1411.877@29.23.1411.877" timestamp="1580362806415" />
+  </component>
+</project>
